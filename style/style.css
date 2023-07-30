@@ -8,3 +8,12 @@ h1 {
   color: #78c1f3;
   font-weight: bold;
 }
+
+.recipe-link {
+  text-align: center;
+  font-size: 40px;
+}
+
+.recipe-link a {
+  color: #ef6262;
+}
