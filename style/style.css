@@ -16,6 +16,12 @@ h1 {
   font-weight: bold;
 }
 
+p {
+  text-align: center;
+  font-size: 24px;
+  text-decoration: underline;
+}
+
 .recipe-link {
   text-align: center;
   font-size: 40px;
@@ -23,4 +29,5 @@ h1 {
 
 .recipe-link a {
   color: #ef6262;
+  text-decoration: none;
 }
