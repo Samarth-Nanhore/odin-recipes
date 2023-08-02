@@ -25,6 +25,9 @@ p {
 .recipe-link {
   text-align: center;
   font-size: 40px;
+  display: block;
+  padding: 20px;
+  margin: 20px;
 }
 
 .recipe-link a {
