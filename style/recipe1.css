@@ -18,6 +18,7 @@ h1 {
 img {
   height: auto;
   width: 200;
+  border: 3px ridge black;
 }
 
 #recipe-img {
@@ -28,6 +29,9 @@ p {
   text-align: center;
   font-size: 20px;
   font-weight: 200;
+  padding: 20px;
+  border: 1px solid blanchedalmond;
+  margin: 10 8;
 }
 
 h2 {
