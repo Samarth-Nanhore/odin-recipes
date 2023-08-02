@@ -1,5 +1,11 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+.recipe-one {
+  width: 800px;
+  margin: 18px auto;
 }
 
 h1 {
