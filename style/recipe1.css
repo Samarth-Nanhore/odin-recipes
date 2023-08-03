@@ -30,16 +30,22 @@ p {
   font-size: 20px;
   font-weight: 200;
   padding: 20px;
-  border: 1px solid blanchedalmond;
+  border: 1px solid beige;
   margin: 10 8;
 }
 
 h2 {
   text-align: center;
   font-weight: 500;
+  margin-bottom: 12px;
 }
 
 ul li {
   font-weight: 500;
   font-size: 25px;
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  border: 2px solid beige;
+  list-style: none;
 }
